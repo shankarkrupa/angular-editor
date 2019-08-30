@@ -5,7 +5,7 @@
     <button type="button" title="Redo" class="angular-editor-button" (click)="triggerCommand('redo')" tabindex="-1"><i
       class='fa fa-repeat'></i></button>
   </div>
-  <div class="angular-editor-toolbar-set">
+  <div class="angular-editor-toolbar-set" >
     <button [id]="'bold-'+id" type="button" title="Bold" class="angular-editor-button" (click)="triggerCommand('bold')"
             [disabled]="htmlMode" tabindex="-1"><i class='fa fa-bold'></i></button>
     <button [id]="'italic-'+id" type="button" title="Italic" class="angular-editor-button"
