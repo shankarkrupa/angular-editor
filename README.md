@@ -145,7 +145,7 @@ Editor preferences are available in the [editor config](https://github.com/kolko
 
 For transparency into our release cycle and in striving to maintain backward compatibility, AngularEditor is maintained under [the Semantic Versioning guidelines](http://semver.org/).
 
-See [the Releases section of our project](https://github.com/kolkov/angular-editor/releases) for changelogs for each release version.
+Please see [the Releases section of our project](https://github.com/kolkov/angular-editor/releases) for changelogs for each release version.
 
 ## Creators
 
